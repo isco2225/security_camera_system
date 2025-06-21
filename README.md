@@ -18,12 +18,15 @@ Flutter ile geliştirilen mobil uygulama, Firebase'den alınan ziyaretçi fotoğ
 
 ### 🏠 Ana Sayfa
 Ziyaretçinin fotoğrafı ve zamanı doğrudan ana sayfada gösterilir.
+
 <img src="images/WhatsApp Görsel 2025-06-21 saat 15.54.09_2df79d93.jpg" width="300"/>
 
 ### 🗂️ Ziyaretçi Arşivi
 Kullanıcı önceki ziyaretçileri tarih sırasına göre görebilir.
+
 <img src="images/WhatsApp Görsel 2025-06-21 saat 16.26.08_519141a0.jpg" width="300"/>
 
 ### 📅 Tarihe Göre Filtreleme
 Arşiv sekmesinde istenilen tarihteki ziyaretçilere ulaşılabilir.
+
 <img src="images/WhatsApp Görsel 2025-06-21 saat 16.26.21_539c5b28.jpg" width="300"/>
