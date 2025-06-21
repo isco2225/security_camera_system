@@ -11,3 +11,19 @@ Bu proje, bir **ESP32-CAM** modülü ve **Flutter mobil uygulaması** kullanarak
 
 ### 🔌 Devre Şeması
 <img src="images/WhatsApp Görsel 2025-06-21 saat 15.24.57_f95fd234.jpg" width="450"/>
+
+## 📱 Mobil Uygulama Arayüzü
+
+Flutter ile geliştirilen mobil uygulama, Firebase'den alınan ziyaretçi fotoğraflarını ve tarih bilgilerini gösterir.
+
+### 🏠 Ana Sayfa
+Ziyaretçinin fotoğrafı ve zamanı doğrudan ana sayfada gösterilir.
+<img src="images/WhatsApp Görsel 2025-06-21 saat 15.54.09_2df79d93.jpg" width="300"/>
+
+### 🗂️ Ziyaretçi Arşivi
+Kullanıcı önceki ziyaretçileri tarih sırasına göre görebilir.
+<img src="images/WhatsApp Görsel 2025-06-21 saat 16.26.08_519141a0.jpg" width="300"/>
+
+### 📅 Tarihe Göre Filtreleme
+Arşiv sekmesinde istenilen tarihteki ziyaretçilere ulaşılabilir.
+<img src="images/WhatsApp Görsel 2025-06-21 saat 16.26.21_539c5b28.jpg" width="300"/>
